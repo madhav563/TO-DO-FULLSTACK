@@ -1,6 +1,6 @@
 ## 🔗 Related Repositories
 
-- 🚀 [Backend Repo](https://github.com/madhav563/to-do)
+- 🚀 [Frontend Repo](https://github.com/madhav563/to-do)
 
 # Full Stack To-Do App
 
